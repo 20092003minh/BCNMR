@@ -53,6 +53,9 @@ main{
     border-radius: 3em;
     margin:10px 10px;
 }
+li{
+    text-align: left;
+}
 h1{
     color: black;
     background-color: #fff;
